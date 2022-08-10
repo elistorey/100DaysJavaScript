@@ -14,3 +14,14 @@ Difficulty: Beginner Friendly
 - Arithmetic Operators
 - Access method & properties operator (.) [dot operator]
 - `""`, `''` -> Strings
+
+## Day 2
+Source: Codecademy
+Course: Learn JavaScript
+Difficulty: Beginner Friendly
+
+### What I learnt
+- Declaring variables using `let`, `var`, `const`
+- Mathematical operators, `+=`, `-=`, `*=`, `/=`, `%=`. `++`, `--`
+- String concatenation
+- Interpolation `${variable}`
