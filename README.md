@@ -25,3 +25,4 @@ Difficulty: Beginner Friendly
 - Mathematical operators, `+=`, `-=`, `*=`, `/=`, `%=`. `++`, `--`
 - String concatenation
 - Interpolation `${variable}`
+- Question the type of a variable with `typeof()`
