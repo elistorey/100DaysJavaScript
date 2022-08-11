@@ -26,3 +26,9 @@ Difficulty: Beginner Friendly
 - String concatenation
 - Interpolation `${variable}`
 - Question the type of a variable with `typeof()`
+
+## Day 3
+### What I learnt
+- Putting the knowledge that I have acquired so far into play
+- Solving the problem first is more important than coding it!
+- Implement two small projects, Kelvin-Weather and Dog-Years
