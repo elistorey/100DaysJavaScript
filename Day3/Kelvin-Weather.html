@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Kelvin Weather</title>
+	</head>
+	<body>
+		<script defer>
+			// Kelvin is constant because it is not suppose to change for the rest of the code execution
+			const kelvin = 293;
+
+			// Celsius is another way to measure temperature the only difference with kelvin is that celsius is 273 less than kelvin
+			let celsius = kelvin - 273;
+			
+			// Just the formula that converts celsius to fahrenheit
+			// Just because in most cases we will get back a decemal number, we are using the floor function to round the value
+			let fahrenheit = Math.floor(celsius * (9/5) + 32);
+			console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
+
+			let newton = Math.floor(celsius * (33/100));
+			console.log(`The temperature is ${newton} degrees Newton.`);
+		</script>
+	</body>
+</html>
