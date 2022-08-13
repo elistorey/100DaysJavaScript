@@ -37,6 +37,7 @@ Difficulty: Beginner Friendly
 ### What I learnt
  - `if`, `if-else`, `if-else-else if` conditions
  - Comparison operators (`===`, `!==`, `>`, `<`, `=>`, `<=`)
+ - Logical operators (`&&`, `||`, `!`)
  - Truthy & falsy values
  - Tertiary operator (`condition ? statement1 : statement2`)
  - `switch` statement
