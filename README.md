@@ -32,3 +32,12 @@ Difficulty: Beginner Friendly
 - Putting the knowledge that I have acquired so far into play
 - Solving the problem first is more important than coding it!
 - Implement two small projects, Kelvin-Weather and Dog-Years
+
+## Day 4
+### What I learnt
+ - `if`, `if-else`, `if-else-else if` conditions
+ - Comparison operators (`===`, `!==`, `>`, `<`, `=>`, `<=`)
+ - Truthy & falsy values
+ - Tertiary operator (`condition ? statement1 : statement2`)
+ - `switch` statement
+ - Short-curcuit evaluation (`var1 = var2 || 'default'`)
