@@ -42,3 +42,7 @@ Difficulty: Beginner Friendly
  - Tertiary operator (`condition ? statement1 : statement2`)
  - `switch` statement
  - Short-curcuit evaluation (`var1 = var2 || 'default'`)
+
+## Day 5
+### What I learnt
+ - Well, nothing new but I put the knowledge that I have acquired so far into play by coding 8ball and race registration programs 
