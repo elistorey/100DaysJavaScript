@@ -1,0 +1,31 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Race Day</title>
+	</head>
+	<body>
+		<script defer>
+			let raceNumber = Math.floor(Math.random() * 1000);
+			const earlyRegistered = true;
+			const age=22;
+
+			if(age > 18 && earlyRegistered) {
+				raceNumber += 1000;
+			}
+
+			if(age > 18 && earlyRegistered) {
+				console.log(`Number ${raceNumber} starts at 9:30am`);
+			}
+			else if(age > 18 && !earlyRegistered) {
+				console.log(`${raceNumber} starts at 11:00am`);
+			}
+
+			if(age < 18){
+				console.log(`${raceNumber} starts at 12:30pm`);
+			}
+			else {
+				console.log('See the registration desk');
+			}
+		</script>
+	</body>
+</html>
